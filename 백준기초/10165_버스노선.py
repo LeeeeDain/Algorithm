@@ -4,7 +4,7 @@ import sys
 arr1 = []
 arr2 = []
 arr2_min_a = 1e9
-arr2_max_b  = 1
+arr2_max_b  = -1
 
 n = int(sys.stdin.readline())
 m = int(sys.stdin.readline())
