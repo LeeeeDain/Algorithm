@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db572e1d-3beb-4718-a821-935e4606f340" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/프로그래머스/레벨2_완전탐색_숫자야구.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/프로그래머스/레벨2_완전탐색_카펫.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
